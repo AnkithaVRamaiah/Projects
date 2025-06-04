@@ -1,5 +1,5 @@
 
-## Project Name
+# Project Name
 
 # Serverless Kubernetes Application Deployment on AWS EKS using Fargate and ALB
 
